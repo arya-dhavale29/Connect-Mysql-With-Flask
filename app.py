@@ -4,7 +4,7 @@ import mysql.connector
 db={
     'host':'localhost',
     'user':'root',
-    'password':'Arya@123',
+    'password':'',          //write your mysql root password here
     'database':'Animal05'
 }
 
